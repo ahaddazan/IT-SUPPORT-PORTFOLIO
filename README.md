@@ -21,6 +21,8 @@ skills through hands-on lab work and real-world scenario practice.
 - Helpdesk ticket documentation
 
 ---
+[01 — User Account Management](./Configuring-users)
 
+---
 ## 📬 Connect
 [LinkedIn](https://www.linkedin.com/in/ahad-sattar-966899337)

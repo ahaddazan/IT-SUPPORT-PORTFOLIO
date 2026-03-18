@@ -18,7 +18,8 @@ skills through hands-on lab work and real-world scenario practice.
 - Password management & security policy
 - Hardware & software troubleshooting
 - Helpdesk ticket documentation
-
+- Service Management Tools
+  
 ---
 [01 — User Account Management](./Configuring-users)
 

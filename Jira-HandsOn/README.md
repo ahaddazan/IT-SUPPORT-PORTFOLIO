@@ -51,7 +51,7 @@ Once the ticket was assigned, the status was updated to **In Progress** via the 
 
 A ~1 minute screen recording demonstrating how the agent can go into their workspace and transition its status to **In Progress**.
 
-📹 [Watch the walkthrough]()
+📹 [Watch the walkthrough](https://youtu.be/rmYsPV_fVvA)
 
 ---
 

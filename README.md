@@ -21,6 +21,8 @@ skills through hands-on lab work and real-world scenario practice.
 
 ---
 [01 — User Account Management](./Configuring-users)
+
+
 [02 --Jira Service Management – IT Support Ticketing Lab](./Jira-HandsOn)
 
 ---

@@ -27,7 +27,7 @@ The form included fields for Summary, Description, and optional Attachments befo
 
 | Customer Portal | Request Categories | Logging a Request |
 |---|---|---|
-| ![Portal](screenshots/jiraportal.png) | ![Categories](screenshots/jiraportal2.png) | ![Logging](screenshots/loggingarequest.png) |
+| ![Portal](jiraportal.png) | ![Categories](jiraportal2.png) | ![Logging](loggingarequest.png) |
 
 ---
 
@@ -35,7 +35,7 @@ The form included fields for Summary, Description, and optional Attachments befo
 
 After the request was submitted, it appeared in the agent workspace under **Basic IT Support → Queues → All open**. The newly created ticket (BIT-1) was visible immediately after submission.
 
-![Agent Workspace](screenshots/agentworkspace.png)
+![Agent Workspace](agentworkspace.png)
 
 ---
 
@@ -43,7 +43,7 @@ After the request was submitted, it appeared in the agent workspace under **Basi
 
 Once the ticket was assigned, the status was updated to **In Progress** via the agent view. This change is reflected on the customer-facing side of the portal in real time.
 
-![Status Changed](screenshots/changedstatuscustomerside.png)
+![Status Changed](changedstatuscustomerside.png)
 
 ---
 
